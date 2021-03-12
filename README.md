@@ -15,6 +15,6 @@ npm run build
 
 ### Notes
 The first time this project runs, the bundler will take some time to run the dev server. Everything should work as expected after that.
-No scrips (package.json) are changed.
+No scripts (package.json) are changed.
 
 Tailwind was integrated with the help of this article:https://dev.to/ardc_overflow/setting-up-svelte-and-tailwind-with-minimal-extra-dependencies-1g5a
